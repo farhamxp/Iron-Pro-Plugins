@@ -5,7 +5,7 @@ Unofficial Icone Iron Plus Plugins
 Plugins structure :
 
 plugin_su |  
-          | configuration_folder  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| configuration_folder  
 	  | plugin_binary  
 	  | plugin_decription (.decr)  
 	  | plugin_image (.png)  

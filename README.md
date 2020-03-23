@@ -6,8 +6,8 @@ Plugins structure :
 
 plugin_su |  
 &emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;| configuration_folder  
-	  | plugin_binary  
-	  | plugin_decription (.decr)  
-	  | plugin_image (.png)  
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;| plugin_binary  
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;| plugin_decription (.decr)  
+&emsp;&emsp;&emsp;&emsp;&nbsp;&nbsp;| plugin_image (.png)  
   
 tar zcvf plugin_su-PluginName.tar.gz plugin_su

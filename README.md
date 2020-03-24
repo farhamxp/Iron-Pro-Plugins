@@ -4,3 +4,5 @@ Used for AutoPlugin By $cripter(https://play.google.com/store/apps/details?id=si
 Installation files and Guide : &lt;<https://t.me/IronAutoPlugin>&gt;    
   
 Thechnical Info : &lt;<https://github.com/farhamxp/Iron-Pro-Plugins/wiki>&gt;
+   
+Please read more info in README.md on plugin branch.

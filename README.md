@@ -4,6 +4,9 @@ Used for AutoPlugin By $cripter(https://play.google.com/store/apps/details?id=si
 Installation files and Guide : &lt;<https://t.me/IronAutoPlugin>&gt;    
   
 Thechnical Info : &lt;<https://github.com/farhamxp/Iron-Pro-Plugins/wiki>&gt;
+   
+Note : This repository has two branchs. Plugins branch has the last version of each plugin and   
+ArchivedPlugin branch has Archives of plugins.
 
 If everyone wants to create new fork of this repository, it's not problem. But that's fork unusable in AutoPlugin.  
 Dear plugin creators : If your output files maked with Thechnical Info structure, that,s usable with AutoPlugin.  

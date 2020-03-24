@@ -16,7 +16,7 @@ The basic concept of these credits is that the collaborative nature of open-sour
   
 SPECIAL THANKS TO SPECIAL PEOPLE :  
 Shahab(t.me/Sky4533)  
-Miles Whittaker(mjwhitta) &lt;<https://mj.whitta.dev>&gt;  
-MohammadNasr(MNASR) &lt;<https://oscambinaries.blogspot.com>&gt;  
+Miles Whittaker (mjwhitta) &lt;<https://mj.whitta.dev>&gt;  
+Mohammad Nasr (MNASR) &lt;<https://oscambinaries.blogspot.com>&gt;  
 محمد الحیاوی
 

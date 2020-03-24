@@ -13,7 +13,6 @@ Dear plugin creators : If your output files maked with Thechnical Info structure
 Please tell me to share them with other Icone iron users.  
 
 License:   
-  
 AutoPlugin is licensed under the GNU General Public License (GPL).  This means that is "free software".  
 That is, not only can AutoPlugin be downloaded and used at no cost, its source code is also available to be analyzed, modified, and contributed to.  
 For more information on the GNU GPL see the GNU website here.&lt;<http://www.gnu.org/licenses/gpl-3.0.txt>&gt;  

@@ -16,6 +16,6 @@ The basic concept of these credits is that the collaborative nature of open-sour
   
 SPECIAL THANKS TO SPECIAL PEOPLE :  
 Shahab(t.me/Sky4533)  
-MohammadNasr(MNASR:https://oscambinaries.blogspot.com/)  
+MohammadNasr(MNASR) &lt;<https://oscambinaries.blogspot.com>&gt;  
 محمد الحیاوی
 

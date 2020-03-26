@@ -1,5 +1,5 @@
-# Iron-Pro-Plugins
-Unofficial Icone Iron Plus Plugins  
+# Icone-Iron-Plugins
+Unofficial Icone Iron Plugins  
 Used for AutoPlugin By $cripter(https://play.google.com/store/apps/details?id=sites.mjwhitta.scripter)  
 Installation files and Guide : &lt;<https://t.me/IronAutoPlugin>&gt;    
   
